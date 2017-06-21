@@ -1,6 +1,8 @@
+
 # Bookmyshow-clone
 Hey there, this is movie booking site its not exact clone of bookmyshow by its does its work nicely.
-
+</br><h6>Feature</h6></br>
+ Authentication </br>
 Technology used: </br>
 front-end = bootstrap and React js .</br>
 back-end = Google firebase. </br>
