@@ -1,0 +1,114 @@
+
+   .log-btn{
+
+     margin:10px;
+   }
+
+   .seats{
+     margin: 5px;
+   }
+.full{
+  height: 100vh;
+}
+
+.login{
+   text-align: center;
+   }
+.login-button{
+  margin: 5px;
+}
+
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.stretch{
+  width:120%;
+  height:300px;
+
+}
+
+.book-button{
+  background-color:#c91d12;
+  color:white;
+   height:30px;
+
+   font-size:18px;
+}
+
+.navbar{
+  background-color: #c91d12;
+  height:50px;
+
+
+}
+
+.cardA {
+  /*
+  -webkit-animation: cardEnter 0.75s ease-in-out 0.5s;
+  animation: cardEnter 0.75s ease-in-out 0.5s;
+  -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
+  */
+  max-width: 400px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+  margin: 5px auto;
+  opacity: 1;
+  color: #000;
+    line-height: 20px;
+
+
+}
+
+
+.card {
+  /*
+  -webkit-animation: cardEnter 0.75s ease-in-out 0.5s;
+  animation: cardEnter 0.75s ease-in-out 0.5s;
+  -webkit-animation-fill-mode: both;
+          animation-fill-mode: both;
+  */
+  max-width: 700px;
+  padding: 5px;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+  margin: 5px auto;
+  opacity: 1;
+  color: #000;
+    line-height: 20px;
+
+
+}
+
+.foot{
+  background-color:grey;
+  height:150px;
+  padding-top: 2%;
+}
+
+
+.navbar-brand{
+  font-size:25px;
+  font-weight: bolder;
+  color:white;
+}
+
+
+.colour{
+  background-color:#DCDCDC;
+  padding-top:40px;
+  padding-bottom:40px;
+}
+
+.colourbg
+{
+  background-color:#E0FFFF;
+}
+
+.select{
+ font-family:inherit;
+ font-size:20px;
+}
